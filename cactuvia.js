@@ -361,7 +361,7 @@ const ICONS = {
    (via the "icon" field), so the site keeps working while you add real photos
    one product at a time. */
 const products = [
-  {id:1,catKey:"Cream",icon:"jar",media:[{type:"video",src:"media/produit1-solaire.mp4"}],price:800,rating:4.8,reviews:132,tagKey:"Best Seller"},
+  {id:1,catKey:"Cream",icon:"jar",media:[{type:"video",src:"produit1-solaire.mp4"}],price:800,rating:4.8,reviews:132,tagKey:"Best Seller"},
   {id:2,catKey:"Soap",icon:"soap",price:850,rating:4.7,reviews:98,tagKey:"New"},
   {id:3,catKey:"Cream",icon:"jar",price:1450,rating:4.9,reviews:210,tagKey:"Best Seller"},
   {id:4,catKey:"Oil",icon:"dropper",price:1800,rating:4.9,reviews:87,tagKey:"Premium"},
